@@ -2,3 +2,5 @@ Git is a virtual control tool that keep track of all changes made by users
 It helps the multiple users to work on same file and do collaborations
 
 Git is most  demanding tool for industrial employee
+
+Git is very important to know each and every Student
